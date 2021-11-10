@@ -9,7 +9,6 @@ function friendsNumbers(numberOne,numberTwo) {
             sumNumOne = sumNumOne + i;
         }
     }
-
     for(let i = 0; i < numberTwo; i++){
         if(numberTwo % i == 0){
             sumNumTwo = sumNumTwo + i;
